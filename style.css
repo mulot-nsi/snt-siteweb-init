@@ -1,0 +1,40 @@
+body {
+    width: 75%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.titre-accueil {
+    background-color: palegreen;
+    color: green;
+    text-align: center;
+    border:2px solid blueviolet;
+}
+
+.titre-page {
+    text-align: center;
+}
+
+.important {
+    font-size: 40px;
+    font-weight: bold;
+    color:slategrey;
+}
+
+.motif-fond {
+    background-image: url('images/motif.png');
+}
+
+.image {
+    width:100px;
+}
+
+table {
+    border-collapse:collapse;
+    border:1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
