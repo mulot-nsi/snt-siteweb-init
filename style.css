@@ -21,8 +21,13 @@ body {
     color:slategrey;
 }
 
-.motif-fond {
+.fond-motif {
     background-image: url('images/motif.png');
+}
+
+.fond-violet {
+    background-color: purple;
+    color: yellow;
 }
 
 .image {
